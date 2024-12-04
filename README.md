@@ -9,8 +9,9 @@ Ok, Now you are in my deep dark house.
 
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Huang-Yidian.Huang-Yidian)
-
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=Huang-Yidian.Huang-Yidian)
+](https://api.moedog.org/count/@Huang-Yidian.readme
+)
 <!--
 **Huang-Yidian/Huang-Yidian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
