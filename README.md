@@ -1,4 +1,4 @@
-## Hi there 👋
+## What's up man! 👋
 ![Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huang-Yidian)
 
 <!--
