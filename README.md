@@ -1,5 +1,6 @@
 ## What's up man! 👋
 Ok, Now you are in my deep dark house.
+[![Gmail Badge](https://img.shields.io/badge/-hyd15213136303@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=hyd:hyd15213136303@gmail.com)](hyd:hyd15213136303@gmail.com)
 
 ![Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huang-Yidian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huang-Yidian)
